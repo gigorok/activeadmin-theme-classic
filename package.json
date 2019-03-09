@@ -1,0 +1,27 @@
+{
+  "name": "activeadmin-theme-classic",
+  "version": "1.0.0",
+  "description": "ActiveAdmin classic theme",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "ActiveAdmin",
+    "theme",
+    "classic"
+  ],
+  "author": "Igor Gonchar <igor.gonchar@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^8.0.5",
+    "clean-webpack-plugin": "^2.0.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "jquery-ujs": "^1.2.2"
+  }
+}

@@ -1,0 +1,22 @@
+import 'jquery';
+import 'jquery-ui/ui/widgets/datepicker';
+import 'jquery-ui/ui/widgets/dialog';
+import 'jquery-ui/ui/widgets/sortable';
+import 'jquery-ui/ui/widgets/tabs';
+import 'jquery-ui/ui/widget';
+import 'jquery-ujs'
+
+import './initialize.es6';
+import './ext/jquery.es6';
+import './ext/jquery-ui.es6';
+import './lib/active_admin.es6';
+import './lib/batch_actions.es6';
+import './lib/dropdown-menu.es6';
+import './lib/has_many.es6';
+import './lib/modal_dialog.es6';
+import './lib/per_page.es6';
+import './lib/checkbox-toggler.es6';
+import './lib/table-checkbox-toggler.es6';
+import './initializers/datepicker.es6';
+import './initializers/filters.es6';
+import './initializers/tabs.es6';
